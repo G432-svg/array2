@@ -6,6 +6,7 @@ public class ArrayApp {
         //declare the variable with name: numberArray
         //it is of the type int[], this is an array of ints
        int[] numberArray;
+       //test pearl
 
         // create a new object of the type int[]
         // it has a length of 5
